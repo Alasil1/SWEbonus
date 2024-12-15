@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Sample Book",
+    "author": "Author Name",
+    "publishedYear": 2021,
+    "isbn": "1234567890",
+    "genre": "Fiction"
+  },
+  {
+    "title": "Read dead",
+    "author": "Ali",
+    "publishedYear": 2021,
+    "isbn": "123",
+    "genre": "Fiction"
+  },
+  {
+    "title": "Sample",
+    "author": "Ahmed",
+    "publishedYear": 2021,
+    "isbn": "1234",
+    "genre": "Fiction"
+  },
+  {
+    "title": "Sample",
+    "author": "Ahmed",
+    "publishedYear": 2021,
+    "isbn": "1234wq",
+    "genre": "Fiction"
+  }
+]
